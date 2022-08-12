@@ -1,4 +1,7 @@
 ScheduleMaker 
+
+# To do
+
 - This one's harder. 
 - Can develop the database schema or an application. 
 - Let one user define the schedule for others. 
